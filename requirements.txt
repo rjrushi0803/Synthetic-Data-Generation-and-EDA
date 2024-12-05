@@ -1,0 +1,6 @@
+pandas
+numpy
+sciki-learn
+tensorflow
+streamlit
+prophet
